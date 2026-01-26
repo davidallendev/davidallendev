@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=coulstallen&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -110,34 +110,17 @@ My experience spans **blockchain protocols, DeFi-style systems, and traditional 
 
 📌 *See pinned repositories for concrete implementations.*
 
----
-
-## 📈 GitHub Activity & Signal
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&theme=transparent&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&row=1&margin-w=15" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/coulston-allen-784abb3a8">
     <img src="https://img.shields.io/badge/LinkedIn-Blockchain%20Engineer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/coulstallen">
     <img src="https://img.shields.io/badge/GitHub-Protocol%20Builder-111111?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://YOUR_PORTFOLIO_URL">
+  <a href="https://coulstonallen.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Web3%20Systems-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
