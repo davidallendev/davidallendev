@@ -1,6 +1,6 @@
 <!-- ===================== HERO / BLOCKCHAIN AURA ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,25:203a43,50:2c5364,75:1f7a8c,100:00d4ff&height=240&section=header&text=George&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Senior%20Backend%20Engineer%20·%20Blockchain%20%26%20Financial%20Systems&descAlignY=60&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,25:203a43,50:2c5364,75:1f7a8c,100:00d4ff&height=240&section=header&text=Coulston Allen&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Senior%20Backend%20Engineer%20·%20Blockchain%20%26%20Financial%20Systems&descAlignY=60&animation=twinkling" />
 </p>
 
 <p align="center">
