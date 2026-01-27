@@ -1,6 +1,6 @@
 <!-- ===================== HERO / BLOCKCHAIN AURA ===================== -->
 <p align="center">
-  <img src="./profile_image.png" />
+  <img src="./profile_image.png" height="50%" width="50%" />
 </p>
 
 <p align="center">
