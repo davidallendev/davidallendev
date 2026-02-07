@@ -7,9 +7,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2500&pause=400&color=00E5FF&center=true&vCenter=true&width=900&lines=AI+Integration+%7C+LLM-Powered+Systems;Blockchain+Infrastructure+%7C+Smart+Contracts;Financial+Ledgers+%7C+Transaction+Integrity;AI+%2B+Backend+%2B+On-chain+Systems;Production+AI+for+Real+Value+—+Built+Correctly" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=davidallendev&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+</p> -->
 
 ---
 
